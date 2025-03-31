@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @MarcelluzExe
-- 👀 I’m new to programming, interesting in C and Phyton
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on any project that comes along
+
